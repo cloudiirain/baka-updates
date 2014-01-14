@@ -10,13 +10,6 @@ The web host used is www.000webhost.com. It was free (1.5GB disk, 100GB/month ba
 
 I'll provide the login information for the time being because security isn't my concern right now. Again, I was largely playing around.
 
-To access pHpMyAdmin, go to [the login page](http://members.000webhost.com):
-
-    Email: muffinzapplepear@gmail.com
-    Psword: baka-tsuki
-
-You'll need to go to cpanel.
-
 *General Account Details*
 
     Domain: cloudbt.uphero.com
