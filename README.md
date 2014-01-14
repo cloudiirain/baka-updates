@@ -67,6 +67,12 @@ Field	Type	Collation	Attributes	Null	Default	Extra
     ch	text	latin1_general_ci		Yes	NULL	
     usr	text	latin1_general_ci		Yes	NULL	
 
+Data Source
+------------
+I literally copied everything by hand from [this link](http://www.mangaupdates.com/groups.html?id=630). For now, I'll be adding updates manually.
+
+It would be nice if we could link up to them or parse that page... Or come up with some arbitrary mechanism of parsing the recent updates page on the Wiki.
+
 Xataface Frontend
 ------------
 
