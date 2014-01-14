@@ -1,0 +1,2 @@
+[10-Jan-2014 00:45:21] Error executing SQL: select mtime from dataface__record_mtimes where recordhash='9fe7d632faaecfbd3499c0311dcd9cfe'
+[10-Jan-2014 00:45:21] Table 'a7104968_bt.dataface__record_mtimes' doesn't exist
