@@ -13,9 +13,6 @@ I'll provide the login information for the time being because security isn't my 
 *General Account Details*
 
     Domain: cloudbt.uphero.com
-    IP Address: 31.170.160.110
-    Username: a7104968
-    Password: baka-tsuki
 
 *File Upload Details*
 
